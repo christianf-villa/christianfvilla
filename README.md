@@ -120,12 +120,12 @@ The project is still under refinement. Current priorities include:
 1. **Clone the repository:**
 
    ```bash
-   git clone [YOUR REPOSITORY LINK]
+   git clone https://github.com/christianf-villa/christianfvilla
    ```
 2. **Enter the folder:**
 
    ```bash
-   cd [YOUR REPOSITORY NAME]
+   cd christianfvilla
    ```
 3. **Open:**
    Open the `index.html` file directly in your browser.
