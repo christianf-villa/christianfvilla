@@ -7,7 +7,7 @@
   <a href="https://github.com/christianf-villa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Christian Villa">
   </a>
-  <a href="https://christianf-villa.github.io/christian-villa-portfolio/" target="_blank"> 
+  <a href="https://christianf-villa.github.io/christianfvilla/" target="_blank"> 
     <img src="https://img.shields.io/badge/Portfolio-Online-0076B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Access Online Portfolio">
   </a>
 </p>
